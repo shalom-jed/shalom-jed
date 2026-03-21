@@ -1,6 +1,6 @@
 # Hi, I'm Shalom 👋
 
-I'm a second-year Software Engineering undergraduate at NIBM, Colombo — building full-stack web apps and shipping real products.
+I'm a second-year Software Engineering undergraduate at NIBM, Colombo — building full-stack web apps, experimenting with NLP, and shipping real products for real clients.
 
 🌐 **Portfolio:** [shalom-jed.github.io/shalom-portfolio](https://shalom-jed.github.io/shalom-portfolio)
 
@@ -35,8 +35,16 @@ I'm a second-year Software Engineering undergraduate at NIBM, Colombo — buildi
 
 ## 📊 GitHub Stats
 
-![Shalom's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalom-jed&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalom-jed&layout=compact&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shalom-jed&show_icons=true&theme=default&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalom-jed&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
