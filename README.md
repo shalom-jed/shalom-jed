@@ -10,7 +10,6 @@
 
 ## 🚀 What I'm working on
 
-- Completing my **BSc (Hons) in Computing** at NIBM, Colombo (2nd year)
 - Maintaining and extending the **Church DBMS** I built for Assembly of God Church, Ruwanwella — a full-stack member management, attendance tracking, and financial reporting system with one-click PDF/Excel exports
 - Actively seeking a **software engineering internship** where I can contribute to production systems
 
