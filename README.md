@@ -45,8 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shalom-jed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalom-jed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=shalom-jed&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=shalom-jed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=shalom-jed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
 </p>
 
 ---
