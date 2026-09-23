@@ -42,14 +42,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shalom-jed&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.salesp07.site/api?username=shalom-jed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.salesp07.site/api/top-langs/?username=shalom-jed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalom-jed&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="49%" />
 </p>
 
 ---
@@ -57,17 +54,9 @@
 ## 📫 Get in touch
 
 <p align="left">
-  <a href="https://linkedin.com/in/shalom-jed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:shalomjedidiah339@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://shalomjedidiah.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2D4A6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+  <a href="https://linkedin.com/in/shalom-jed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:shalomjedidiah339@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://shalomjedidiah.live" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2D4A6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D4A6B&height=100&section=footer" />
