@@ -44,22 +44,23 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shalom-jed&show_icons=true&theme=nord&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalom-jed&layout=compact&theme=nord&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shalom-jed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalom-jed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+</p>
 
 ---
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shalom--jed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalom-jed)
-[![Email](https://img.shields.io/badge/Email-shalomjedidiah339@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shalomjedidiah339@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D4A6B&height=100&section=footer" />
+<p align="left">
+  <a href="https://linkedin.com/in/shalom-jed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shalomjedidiah339@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shalomjedidiah.live" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2D4A6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
