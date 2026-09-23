@@ -42,22 +42,18 @@
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shalom-jed&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalom-jed&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=shalom-jed&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
 </p>
 
 ---
 
 ## 📫 Get in touch
 
-<p align="left">
-  <a href="https://linkedin.com/in/shalom-jed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:shalomjedidiah339@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://shalomjedidiah.live" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2D4A6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shalom--jed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalom-jed)&nbsp;
+[![Email](https://img.shields.io/badge/Email-shalomjedidiah339%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalomjedidiah339@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-shalomjedidiah.live-2D4A6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shalomjedidiah.live)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D4A6B&height=100&section=footer" />
-</p>
